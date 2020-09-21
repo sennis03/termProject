@@ -1,0 +1,24 @@
+body {
+background-color: #c4abc2 ;
+color: #151712 ; 
+}
+img {
+    border: .5rem solid ;
+    border-color: #292929
+}
+h1 {
+    color: #151712 ;
+    font-size: 2rem ;
+}
+p {
+    color: #292929 ;
+    font-size: 1.2rem ;
+}
+
+.pbord {
+    border-left: 1.5rem solid ;
+    border-color: #E5EFF1 ;
+}
+a {
+    color: #E5EFF1 ;
+}
