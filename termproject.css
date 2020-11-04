@@ -1,0 +1,29 @@
+body {
+    background-color: #a68c9c ;
+    color: #151712 ; 
+    font-family: 'Montserrat', sans-serif ;
+    }
+    img {
+        border: .4rem solid ;
+        border-color: #292929 ;
+        display: block ;
+        margin-left: auto ;
+        margin-right: auto ;
+        width: 50% ;
+        border-radius: 10px;
+    }
+    h1 {
+        color: #151712 ;
+        font-size: 2.25rem ;
+    }
+    p {
+        color: #292929 ;
+        font-size: 1.3rem ;
+    }
+    
+    a {
+        color: #5c3c67 ;
+    }
+footer {
+    background-color: #ABB4D8 ;
+}
